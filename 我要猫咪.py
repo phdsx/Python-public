@@ -21,3 +21,4 @@ for i in level:
         elif danwei=="m":
             danwei="k";
         maoliang=maoliang*1000
+print(123)
