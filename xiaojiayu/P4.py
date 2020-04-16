@@ -1,9 +1,9 @@
-#第四课
+# 第四课
 
 first = 1
 second = 2
-thire = first
+three = first
 
 first += 1
 
-print(first,second,thire)
+print(first, second, three)
