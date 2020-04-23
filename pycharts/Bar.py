@@ -7,11 +7,17 @@
 
 from pyecharts.charts import Bar
 import random
+from pyecharts import options as opt
+from pyecharts.globals import ThemeType
 
-bar=(
-    Bar()
-    .add_yaxis("测试",random.randint(0,100))
-    .add_xaxis(["A","B","C","D","E"])
+a = []
+for i in range(5):
+    a.append(random.randint(0, 100))
+bar = (
+    Bar(init_opts=opt.InitOpts(theme=ThemeType.ROMANTIC))
+        .add_yaxis("测试", a)
+        .add_xaxis(["A", "B", "C", "D", "E"])
+        .set_global_opts(title_opts=opt.TitleOpts(title="主标题", subtitle="副标题"))
 )
 
 bar.render()
