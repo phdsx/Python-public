@@ -6,10 +6,15 @@
 # 版本号    ： Ver.
 from pyecharts.charts import Pie
 from pyecharts import options as opt
-from pyecharts.globals import ThemeType
 import json
+from sys import argv
+import time
 
-with open("friend.json") as f:
+#script,file=argv
+file='friend.json'
+#print(file)
+#time.sleep(20)
+with open(file) as f:
     friend=json.load(f)
 
 Sex={'男':0,"女":0,"不知道":0}
@@ -25,7 +30,7 @@ pie=(
     Pie()
 
     .add('',[list(z) for z in zip(list(Sex.keys()),list(Sex.values()))])
-    .set_global_opts(title_opts=opt.TitleOpts(title="微信好友性别统计"))
+    .set_global_opts(title_opts=opt.TitleOpts(title="微信好友性别分析"))
     .set_series_opts(label_opts=opt.LabelOpts(formatter="{b}: {c}"))
 )
 pie.render()
