@@ -5,10 +5,9 @@
 # 所属工程  ： Python-learning
 # 版本号    ： Ver.
 
-import itchat,json
-
+import itchat, json
 
 itchat.auto_login(hotReload=True)
-friends=itchat.get_friends()
-with open('friend.json',"w") as j:
-    json.dump(friends,j)
+friends = itchat.get_friends()
+with open('friend.json', "w") as j:
+    json.dump(friends, j)
