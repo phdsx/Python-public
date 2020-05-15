@@ -5,3 +5,16 @@
 # 文件名    ：  返回字符串.py
 # 所属工程  ：  Python-learning
 # 版本号    ：  Ver.
+id=1
+name='小明'
+
+class Student():
+    def __init__(self,id ,name):
+        self.id=str(id)
+        self.name=name
+    def output(self):
+        return "id:"+self.id+'\t'+'name:'+name
+
+a=Student(id,name)
+b=a.output()
+print(b,'\n',ascii(b))
