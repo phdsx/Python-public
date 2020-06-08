@@ -25,11 +25,14 @@ class Webpage():
             time.sleep(3)
 
     def get_msg(self, dict):
-        msg_list = dict.get('payload').get('list')
-        for each in range(0, len(msg_list)):
-            tar_dict[f'{msg_list[each].get("id")}'] = {'企业名称': f'{msg_list[each].get("sqr")}',
-                                                       '文书号': f'{msg_list[each].get("xzxkjdswh")}',
-                                                       '决定日期': f'{msg_list[each].get("xkrq")}'}
+        try:
+            msg_list = dict.get('payload').get('list')
+            for each in range(0, len(msg_list)):
+                tar_dict[f'{msg_list[each].get("id")}'] = {'企业名称': f'{msg_list[each].get("sqr")}',
+                                                           '文书号': f'{msg_list[each].get("xzxkjdswh")}',
+                                                           '决定日期': f'{msg_list[each].get("xkrq")}'}
+        except:
+            pass
 
 
 class Sheet():
