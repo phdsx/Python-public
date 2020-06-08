@@ -41,15 +41,18 @@ class Sheet():
         self.ws = self.wb['Sheet1']
 
     def write_in(self, dict):
-        self.row_num = 1
-        for id in dict:
-            self.ws.cell(self.row_num, 1).value = id
-            self.ws.cell(self.row_num, 2).value = dict.get(str(id)).get('企业名称')
-            self.ws.cell(self.row_num, 3).value = dict.get(str(id)).get('文书号')
-            self.ws.cell(self.row_num, 4).value = dict.get(str(id)).get('决定日期')
-            self.row_num += 1
+        try:
+            self.row_num = 1
+            for id in dict:
+                self.ws.cell(self.row_num, 1).value = id
+                self.ws.cell(self.row_num, 2).value = dict.get(str(id)).get('企业名称')
+                self.ws.cell(self.row_num, 3).value = dict.get(str(id)).get('文书号')
+                self.ws.cell(self.row_num, 4).value = dict.get(str(id)).get('决定日期')
+                self.row_num += 1
 
-        self.wb.save('行政处罚.xlsx')
+            self.wb.save('行政处罚.xlsx')
+        except:
+            print('excel错误')
 
 
 if __name__ == '__main__':
