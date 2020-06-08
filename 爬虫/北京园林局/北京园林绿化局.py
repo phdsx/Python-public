@@ -38,7 +38,7 @@ class Sheet():
         self.ws = self.wb['Sheet1']
 
     def write_in(self, dict):
-        self.row_num=1
+        self.row_num = 1
         for id in dict:
             self.ws.cell(self.row_num, 1).value = id
             self.ws.cell(self.row_num, 2).value = dict.get(str(id)).get('企业名称')
