@@ -18,10 +18,12 @@ class Webpage():
         page_num = []
         for i in range(0, 1031, 10):  # 1031
             page_num.append(i)
+            
         for each in page_num:
             url = f'http://sgs.bjylfw.cn:8000/rest/licence/publicAll?from={each}&max=10&keyword=&startTime=&endTime='
             r = requests.get(url, headers=self.hd)
             self.get_msg(json.loads(r.text))
+			print(f'正在爬取第{each/10+1}页内容')
             time.sleep(3)
 
     def get_msg(self, dict):
@@ -42,6 +44,7 @@ class Sheet():
 
     def write_in(self, dict):
         try:
+            print('开始写入Excel')
             self.row_num = 1
             for id in dict:
                 self.ws.cell(self.row_num, 1).value = id
@@ -53,6 +56,7 @@ class Sheet():
             self.wb.save('行政处罚.xlsx')
         except:
             print('excel错误')
+
 
 
 if __name__ == '__main__':

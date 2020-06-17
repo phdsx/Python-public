@@ -5,3 +5,8 @@
 # 文件名    ：  12转acsii.py
 # 所属工程  ：  Python-learning
 # 版本号    ：  Ver.
+
+a='3'
+b=23
+print(chr(b))
+print(ord(a))
