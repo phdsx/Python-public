@@ -1,7 +1,0 @@
-pyinstaller
-pyecharts
-pip install echarts-countries-pypkg
-pip install echarts-china-provinces-pypkg
-pip install echarts-china-cities-pypkg
-echarts-china-misc-pypkg
-echarts-china-counties-pypkg
