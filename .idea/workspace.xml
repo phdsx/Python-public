@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b1f28ea-885f-4972-96ef-a106519f6d4b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python小例子/1基础/12转acsii.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python小例子/1基础/1绝对值.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python小例子/1基础/2元素都为真.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python小例子/1基础/3元素至少一个为真.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python小例子/1基础/4返回字符串.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python小例子/1基础/5十进制转二进制.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python小例子/1基础/6十进制转八进制.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python小例子/1基础/7十进制转十六进制.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python小例子/1基础/9字符串转字节.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QT5/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QT5/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QT5/12.俄罗斯方块.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QT5/2.消息框.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QT5/2.窗口显示在屏幕的中间.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QT5/3.绝对定位.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QT5/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QT5/no1.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sympy/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sympy/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sympy/花盆.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili-dance/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili-dance/text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardway/ex10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardway/ex13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardway/ex15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardway/ex16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardway/ex18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardway/ex23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardway/ex25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardway/languages.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardway/哈哈哈.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itchat/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng/10.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng/10.2property.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng/10.5枚举.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng/9.0面向对象编程.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng/9.3继承和多态.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy/2.4基本运算.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic to excel/pic-excel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyecharts/Bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyecharts/map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyecharts/pies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyecharts/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyecharts/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyecharts/地区.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/111.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day2/bianliang.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day2/ipmort this.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day2/turtletest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day2/摄氏华氏转换.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day2/计算圆的周长面积.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day2/运算1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day4/九九乘法表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day4/最小公约数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day4/猜数字.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day4/输入正整数判断是不是素数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day5/100以内素数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day5/Craps赌博游戏.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day5/piptest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day5/完美数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day5/斐波那契数列.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day5/水仙花数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day5/随机数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/1-100sushu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/foo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/foo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/foo2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/footest2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/gbs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/kouzh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/modle3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/sushumodle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/test3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day6/test4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/bianli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/fib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/geshihua.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/jihe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/len1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/list1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/list2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/pmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/shengchengqi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/xishulie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100days/day7/zhuanyi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiyanlou/pingjunshu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiyanlou/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songtian/2.0.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songtian/2.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songtian/3.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songtian/3.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songtian/circle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songtian/p22-converttemp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songtian/p25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/二维码/qrcode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/企业安全网.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/111.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P39.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P58.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/P6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/小甲鱼/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/手绘/shouhui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/01matplotlib基础绘图.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/02matplotlib基础绘图.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据分析/6绘制多次图形.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂七杂八/111.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂七杂八/bmi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂七杂八/fangcheng.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂七杂八/jiefangcheng.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂七杂八/zifuhua.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂七杂八/我要猫咪.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂七杂八/汉诺塔.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/杂七杂八/网易云.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/信用中国/信用中国双公示.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/信用昌平/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/信用昌平/信用昌平.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/北京住建委/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/北京住建委/建筑施工许可证.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/北京住建委/许可证2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/北京园林局/北京园林绿化局.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/北京园林局/行政处罚.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/北京市卫健委/北京市卫健委.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/北京市发改委/北京市发改委.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/网易云/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/菜鸟/Tkinter/vipvideo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/菜鸟/bianliangming.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/菜鸟/zhihu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/转字符画/100344.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/转字符画/11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/转字符画/badapple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/转字符画/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/转字符画/转字符画.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pq70r82uxZrpFW0pYxBZM79RTQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python-public" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Yue\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b1f28ea-885f-4972-96ef-a106519f6d4b" name="Default Changelist" comment="" />
+      <created>1615898546796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615898546796</updated>
+    </task>
+    <task id="LOCAL-00001" summary="爬虫">
+      <created>1615901428247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615901428247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="爬虫" />
+    <option name="LAST_COMMIT_MESSAGE" value="爬虫" />
+  </component>
+</project>
